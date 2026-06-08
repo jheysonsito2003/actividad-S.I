@@ -15,19 +15,19 @@ Durante el desarrollo de esta actividad se utilizaron diversas herramientas y me
 
 Existe el riesgo de que personas sin autorización intenten acceder a los archivos o repositorios del proyecto, comprometiendo la confidencialidad de la información.
 
-📷 **Imagen 2:** Usuario intentando acceder sin permisos.
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/ae130189-a88c-4a9d-98cf-6521cd700701" />
 
 ### Sustracción de credenciales
 
 Las contraseñas, claves de acceso o credenciales pueden ser obtenidas por terceros mediante diferentes técnicas, permitiendo el acceso no autorizado a los sistemas.
 
-📷 **Imagen 3:** Representación de robo de contraseñas.
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/880d1c3c-bbfb-4e30-b71a-9bd575d1d230" />
 
 ### Alteración de archivos
 
 Los documentos y evidencias pueden sufrir modificaciones accidentales o intencionales, afectando la confiabilidad de la información almacenada.
 
-📷 **Imagen 4:** Archivo siendo modificado.
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/d05ea1df-1da3-4ca7-b6dd-8fc2a5609f89" />
 
 ### Exposición de información sensible
 
